@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou um estudante de Ciência da Computação pela UNIFOR, tenho afinidade com Java e paixão por desenvolvimento de projetos. Sempre buscando novas oportunidades de aprendizado e evolução na área de tecnologia.</p>
+<p align="left">//</p>
 
 ###
 
