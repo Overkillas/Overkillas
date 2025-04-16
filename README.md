@@ -1,6 +1,6 @@
 <h2 align="left">About me</h2>
 
-<p align="left">Sou um desenvolvedor apaixonado por tecnologia e inovação.</p>
+<p align="left">//</p>
 
 ###
 
